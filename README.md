@@ -1,12 +1,12 @@
 # SUSEManagerPOC
 Informacje pomocnicze do Proof of Concept SUSE Managera
 
-Wymagania sprzętowe
+### Wymagania sprzętowe
 4vCPU
 8GB RAM (zalecane 16GB)
 Rozszerzalna przestrzeń dyskowa (LVM) 500GB minimum, zalecane 1TB
 
-Wymagania sieciowe
+### Wymagania sieciowe
 Dostępna pełna nazwa domenowa dla serwera (FQDN)
 DNS, który poprawnie rozwiązuje nazwy zarówno serwera, jak i klientów
 Otwarte porty przychodzące (minimum): 22, 80, 443, 4505, 4506
