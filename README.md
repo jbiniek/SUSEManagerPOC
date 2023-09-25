@@ -1,6 +1,8 @@
 # SUSEManagerPOC
 Informacje pomocnicze do Proof of Concept SUSE Managera
 
+## Instalacja serwera SUSE Manager
+
 ### Wymagania sprzętowe
 - 4vCPU
 - 8GB RAM (zalecane 16GB)
