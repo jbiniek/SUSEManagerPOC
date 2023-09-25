@@ -12,3 +12,5 @@ Informacje pomocnicze do Proof of Concept SUSE Managera
 - Otwarte porty przychodzące (minimum): 22, 80, 443, 4505, 4506
 - Otwarte porty wychodzące (minimum): 80, 443
 - Adres scc.suse.com oraz updates.suse.com dostępny z serwera
+
+Pełna dokumentacja dotycząca przygotowania oraz instalacji: https://documentation.suse.com/suma/4.3/en/suse-manager/installation-and-upgrade/installation-and-upgrade-overview.html
