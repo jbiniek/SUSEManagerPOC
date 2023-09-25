@@ -16,3 +16,6 @@ Informacje pomocnicze do Proof of Concept SUSE Managera
 - Adres scc.suse.com oraz updates.suse.com dostępny z serwera
 
 Pełna dokumentacja dotycząca przygotowania oraz instalacji: https://documentation.suse.com/suma/4.3/en/suse-manager/installation-and-upgrade/installation-and-upgrade-overview.html
+
+### Integracja z VMWare (opcjonalnie)
+Potrzebne będzie konto serwisowe hosta VMWare, które posiada uprawnienia przynajmniej read-only do wszystkich obiektów, które mają być widoczne dla SUSE Managera. Najlepiej przygotować też od razu pełny adres FQDN (ew. IP) hosta, upewnić się jakiego portu używa API VMWare (np. 443), oraz naturalnie przygotować nazwę i hasło konta które chcemy przekazać do SUSE Managera.
